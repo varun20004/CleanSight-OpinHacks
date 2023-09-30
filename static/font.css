@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('/static/Roboto-Regular.ttf') format('ttf');
+    /* Add additional font formats if needed */
+    font-weight: normal;
+    font-style: normal;
+}
